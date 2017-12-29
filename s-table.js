@@ -1,9 +1,9 @@
 /* jshint esversion: 6 */
 
-import {Element as PolymerElement} from '../../node_modules/@polymer/polymer/polymer-element.js'
-import '../../node_modules/@polymer/iron-flex-layout/iron-flex-layout.js'
-import '../../node_modules/@polymer/paper-styles/color.js'
-import '../../node_modules/@polymer/paper-styles/default-theme.js'
+import {Element as PolymerElement} from './node_modules/@polymer/polymer/polymer-element.js'
+import './node_modules/@polymer/iron-flex-layout/iron-flex-layout.js'
+import './node_modules/@polymer/paper-styles/color.js'
+import './node_modules/@polymer/paper-styles/default-theme.js'
 
 /**
  * `s-table`
